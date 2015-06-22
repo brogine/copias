@@ -1,0 +1,24 @@
+table caption {
+	border-left: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+	border-top: 1px solid #dddddd;
+	line-height: 20px;
+	padding: 8px;
+}
+
+.nop {
+	padding: 0 !important;
+}
+
+td.nop table {
+	width: 100%;
+}
+
+td.nop table td {
+	border: 0;
+	border-bottom: 1px solid #dddddd;
+}
+
+td.last {
+	border: 0 !important;
+}

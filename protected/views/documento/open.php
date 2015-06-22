@@ -1,0 +1,1 @@
+<embed width="100%" height="100%" name="plugin" src="<?=$ruta?>" type="application/pdf">
